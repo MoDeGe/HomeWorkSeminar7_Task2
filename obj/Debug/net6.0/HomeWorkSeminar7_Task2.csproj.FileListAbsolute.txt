@@ -1,0 +1,15 @@
+C:\Dev\GB\C#\HomeWorkSeminar7_Task2\bin\Debug\net6.0\HomeWorkSeminar7_Task2.exe
+C:\Dev\GB\C#\HomeWorkSeminar7_Task2\bin\Debug\net6.0\HomeWorkSeminar7_Task2.deps.json
+C:\Dev\GB\C#\HomeWorkSeminar7_Task2\bin\Debug\net6.0\HomeWorkSeminar7_Task2.runtimeconfig.json
+C:\Dev\GB\C#\HomeWorkSeminar7_Task2\bin\Debug\net6.0\HomeWorkSeminar7_Task2.dll
+C:\Dev\GB\C#\HomeWorkSeminar7_Task2\bin\Debug\net6.0\HomeWorkSeminar7_Task2.pdb
+C:\Dev\GB\C#\HomeWorkSeminar7_Task2\obj\Debug\net6.0\HomeWorkSeminar7_Task2.csproj.AssemblyReference.cache
+C:\Dev\GB\C#\HomeWorkSeminar7_Task2\obj\Debug\net6.0\HomeWorkSeminar7_Task2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\GB\C#\HomeWorkSeminar7_Task2\obj\Debug\net6.0\HomeWorkSeminar7_Task2.AssemblyInfoInputs.cache
+C:\Dev\GB\C#\HomeWorkSeminar7_Task2\obj\Debug\net6.0\HomeWorkSeminar7_Task2.AssemblyInfo.cs
+C:\Dev\GB\C#\HomeWorkSeminar7_Task2\obj\Debug\net6.0\HomeWorkSeminar7_Task2.csproj.CoreCompileInputs.cache
+C:\Dev\GB\C#\HomeWorkSeminar7_Task2\obj\Debug\net6.0\HomeWorkSeminar7_Task2.dll
+C:\Dev\GB\C#\HomeWorkSeminar7_Task2\obj\Debug\net6.0\refint\HomeWorkSeminar7_Task2.dll
+C:\Dev\GB\C#\HomeWorkSeminar7_Task2\obj\Debug\net6.0\HomeWorkSeminar7_Task2.pdb
+C:\Dev\GB\C#\HomeWorkSeminar7_Task2\obj\Debug\net6.0\HomeWorkSeminar7_Task2.genruntimeconfig.cache
+C:\Dev\GB\C#\HomeWorkSeminar7_Task2\obj\Debug\net6.0\ref\HomeWorkSeminar7_Task2.dll
